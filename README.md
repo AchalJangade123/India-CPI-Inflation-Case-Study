@@ -1,4 +1,4 @@
-####India CPI Inflation Analysis | Microsoft Excel Project 📊
+## India CPI Inflation Analysis | Microsoft Excel Project 📊
 
 ## 📌 Project Overview
 
@@ -109,7 +109,7 @@
 
 ## 👩‍💻 Author
 
-** Data Analyst**
+ Data Analyst
 
 🔗 **GitHub Portfolio:** Explore my data analytics projects and practical work.
 
